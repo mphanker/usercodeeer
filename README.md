@@ -15,4 +15,4 @@ test_repository1
 ```
 详情请看[第二个文件](https://github.com/mphanker/usercodeeer/blob/main/second_file.md)
 
-再详情请看[第三个文件](https://github.com/mphanker/usercodeeer/blob/main/file/second_file.md)
+再详情请看[第三个文件](https://github.com/mphanker/usercodeeer/blob/main/files/thirdmd.md)
