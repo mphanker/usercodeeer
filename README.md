@@ -13,3 +13,4 @@ test_repository1
   str1 = '我是python,我中文名叫蟒蛇,出生于1990年'
   print(str.split(str1,','))
 ```
+详情请看[第二个文件]()
